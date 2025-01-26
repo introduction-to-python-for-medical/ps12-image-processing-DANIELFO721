@@ -26,4 +26,4 @@ def edge_detection(image):
     
     edgeMAG = np.sqrt(edgeX**2 + edgeY**2)
     
-    return edgeMA
+    return edgeMAG
